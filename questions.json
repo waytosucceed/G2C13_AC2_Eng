@@ -1,0 +1,314 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "Hear the word and choose the correct spelling:<img src='./images/15.jpg' alt='goldFish' width='80px' height='60px'> ",
+      "Q_sound":"./sound/leaf.mp3",
+      "options": [
+        {
+          "text": "Liif",
+          "audio": ""
+        },
+        {
+          "text": "Life",
+          "audio": ""
+        },
+        {
+          "text": "Leaf",
+          "audio": ""
+        }
+      ],
+      "correct": 2
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Hear the word and find out how many times the letter “L” appeared:<img src='./images/leave.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/leave.mp3",
+        "options": [
+          {
+            "text": "1",
+            "audio": ""
+          },
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "0",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q3. ",
+        "question": "Hear the word and find out how many times the letter “L” appeared:<img src='./images/bell.jpg' alt='goldFish' width='80px' height='60px'> ",
+        "Q_sound":"./sound/bell.mp3",
+        "options": [
+          {
+            "text": "1",
+            "audio": ""
+          },
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "0",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q4.",
+        "question": "Which word is correct?<img src='./images/14.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Wal",
+            "audio": ""
+          },
+          {
+            "text": "Wall",
+            "audio": ""
+          },
+          {
+            "text": "Waall",
+            "audio": ""
+          },
+          {
+            "text": "Waal",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },{
+        "questionNo": "Q5.",
+        "question": "Which of these words is spelt incorrectly?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Fil",
+            "audio": ""
+          },
+          {
+            "text": "Fell",
+            "audio": ""
+          },
+          {
+            "text": "Feel",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      
+      {
+        "questionNo": "Q6.",
+        "question": "When do we use a double \"L\" in a word?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "When it comes after a short vowel sound.",
+            "audio": ""
+          },
+          {
+            "text": "When the word is long.",
+            "audio": ""
+          },
+          {
+            "text": "When it starts with \"B.\"",
+            "audio": ""
+          },
+          {
+            "text": "When it ends with \"K.\"",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q7.",
+        "question": " Complete the word: BI__.  <img src='./images/bill.jpg' alt='goldFish' width='80px' height='60px'>.",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "L",
+            "audio": ""
+          },
+          {
+            "text": "LL",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q8.",
+        "question": "Which word follows the rule of having a double \"L\" after a short vowel?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "All",
+            "audio": ""
+          },
+          {
+            "text": "Loaf",
+            "audio": ""
+          },
+          {
+            "text": "Leaf",
+            "audio": ""
+          },
+          {
+            "text": "Cup",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "The word \"Bell\" follows the double \"L\" rule.<img src='./images/bell.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "True",
+            "audio": ""
+          },
+          {
+            "text": "False",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q10.",
+        "question": "Complete the word: BA__OON. <img src='./images/ballon.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "L",
+            "audio": ""
+          },
+          {
+            "text": "LL",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q11.",
+        "question": "Which word is pronounced with a strong \"L\" sound at the end?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/tell.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/file.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/life.mp3"
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q12.",
+        "question": "What is the correct pronunciation of the word “Bull”?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/bile.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/bull.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/bell.mp3"
+          }
+        ],
+        "correct": 1
+      },{
+        "questionNo": "Q13.",
+        "question": "Fill in the blank:<br> The cat climbed up the __ (Choose the word that has a double \"L\").",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/tree.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/rug.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/book.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/wall.mp3"
+          }
+        ],
+        "correct": 3
+      },
+      {
+        "questionNo": "Q14.",
+        "question": "Fill in the blank:<br> I can see the __ (Choose the word that has a single \"L\").",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/doll.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/leaf.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/hill.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/ball.mp3"
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q15.",
+        "question": "Which of these words should have only one \"L\"? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "🔉",
+            "audio": "./sound/all.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/fell.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/hill.mp3"
+          },
+          {
+            "text": "🔉",
+            "audio": "./sound/olive.mp3"
+          }
+        ],
+        "correct": 3
+      }
+  ]
+  
